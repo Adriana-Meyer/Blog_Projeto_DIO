@@ -1,0 +1,35 @@
+.conteudos {
+    background-color: #f3f3f3;
+    padding: 30px;
+}
+
+.conteudos__titulo {
+    margin: 30px 20px;
+}
+
+.conteudo {
+    align-items: center;   
+    border: 1px solid #000000;
+    border-radius: 10px;
+    display: flex;
+    margin: 30px auto;
+    padding: 20px 50px;
+    width: 80%;
+}
+
+.conteudo__imagem {
+    max-height: 200px;
+    max-width: 150px;
+}
+
+.conteudo__secao{
+    padding: 40px;
+}
+
+.conteudo__titulo {
+    font-size: 22px;
+}
+
+.conteudo__texto {
+    font-weight: 400;
+}

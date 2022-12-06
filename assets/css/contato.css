@@ -1,0 +1,43 @@
+.contato {
+    margin: 30px;
+    padding: 20px 40px;
+}
+
+.contato__titulo {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.contato__container {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px; 
+}
+
+.contato__label {
+    font-weight: 500;
+    margin-right: 5px;
+}
+
+.contato__inputBox {
+    margin: 5px 0 20px 0;
+    width: 50%;
+}
+
+.mensagem {
+    height: 100px;
+}
+
+.contato__botao {
+    background-color: #222e68;
+    border: none;
+    border-radius: 5px;
+    color: #ffffff;
+    font-weight: 500;
+    padding: 5px 10px;
+}
+
+.contato__botao:hover {
+    background-color: #3e52b6;
+}
